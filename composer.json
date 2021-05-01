@@ -1,0 +1,18 @@
+{
+    "name": "carmelosantana/adb",
+    "description": "Wrapper to help communicate with adb server.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carmelo Santana",
+            "email": "git@carmelosantana.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "carmelosantana\\ADB\\": "src/"
+        }
+    }
+}
